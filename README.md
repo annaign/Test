@@ -1,0 +1,1 @@
+# [Тестовое задание на позицию frontend разработчика](https://github.com/fugr-ru/frontend-javascript-test)
