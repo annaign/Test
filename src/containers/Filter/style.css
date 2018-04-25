@@ -1,0 +1,16 @@
+.searchArea {
+  font-size: 16px;
+  margin: 10px;
+  padding: 6px;
+}
+
+.searchArea input[type='search'] {
+  font-size: 16px;
+  outline: none;
+}
+
+.searchArea button {
+  float: right;
+  font-size: 16px;
+  cursor: pointer;
+}
